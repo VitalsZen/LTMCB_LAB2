@@ -1,0 +1,1 @@
+[{"FullName":"Khang","ID":12345678,"PhoneNum":"0123456789","C1":9,"C2":8.5,"C3":7,"Avg":0},{"FullName":"Khang","ID":87654321,"PhoneNum":"0987654321","C1":8,"C2":6,"C3":5,"Avg":0}]

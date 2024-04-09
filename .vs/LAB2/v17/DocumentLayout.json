@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|c:\\users\\acer\\onedrive\\computer\\uit\\hk4\\lap trinh mang can ban\\thuchanh\\lab2\\lab2\\lab2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai05_datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai05_datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai05_datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai05_datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\cphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\cphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai04_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai04_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai01.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai01.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\lab2\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE5C487-F3E7-40F1-BF7C-8FB9B9CAF5AE}|LAB2\\LAB2.csproj|solutionrelative:lab2\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai06.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai06.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai06.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai06.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai06.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:09:10.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai03.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai03.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai03.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai03.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai03.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:19:33.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai05.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai05.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai05.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:15:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai03.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai03.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai03.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai03.cs",
+              "RelativeToolTip": "LAB2\\Bai03.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwHgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:25:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bai05_DatVe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05_DatVe.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai05_DatVe.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05_DatVe.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai05_DatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:57:04.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai07.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai07.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai07.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai07.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai07.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:25:49.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Connection.cs",
+              "RelativeDocumentMoniker": "LAB2\\Connection.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Connection.cs",
+              "RelativeToolTip": "LAB2\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:41:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai04.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai04.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai04.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:20:43.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai04.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.cs",
+              "RelativeToolTip": "LAB2\\Bai04.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:28:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai05_DatVe.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05_DatVe.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai05_DatVe.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai05_DatVe.cs",
+              "RelativeToolTip": "LAB2\\Bai05_DatVe.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAAL0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:05:44.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CPhim.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\CPhim.cs",
+              "RelativeDocumentMoniker": "LAB2\\CPhim.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\CPhim.cs",
+              "RelativeToolTip": "LAB2\\CPhim.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:42:37.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai04_Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04_Student.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai04_Student.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04_Student.cs",
+              "RelativeToolTip": "LAB2\\Bai04_Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:01:51.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bai02.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai02.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai02.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai02.cs",
+              "RelativeToolTip": "LAB2\\Bai02.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:04:10.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bai01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai01.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:03:43.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bai02.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai02.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai02.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai02.cs [Design]",
+              "RelativeToolTip": "LAB2\\Bai02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:00:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bai01.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai01.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.cs",
+              "RelativeToolTip": "LAB2\\Bai01.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:03:46.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bai04.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.Designer.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai04.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai04.Designer.cs",
+              "RelativeToolTip": "LAB2\\Bai04.Designer.cs",
+              "ViewState": "AQIAAAICAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:33:04.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Program.cs",
+              "RelativeToolTip": "LAB2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:15:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lab2.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Lab2.cs",
+              "RelativeDocumentMoniker": "LAB2\\Lab2.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Lab2.cs",
+              "RelativeToolTip": "LAB2\\Lab2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawDoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:07:22.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lab2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Lab2.cs",
+              "RelativeDocumentMoniker": "LAB2\\Lab2.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Lab2.cs [Design]",
+              "RelativeToolTip": "LAB2\\Lab2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:06:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bai01.resx",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.resx",
+              "RelativeDocumentMoniker": "LAB2\\Bai01.resx",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai01.resx",
+              "RelativeToolTip": "LAB2\\Bai01.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-09T01:03:40.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bai06.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai06.Designer.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai06.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai06.Designer.cs",
+              "RelativeToolTip": "LAB2\\Bai06.Designer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAYwKcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:26:15.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "fb4ee9d2-00e4-44a8-a402-ef362f59afa6",
+        "Display": 0,
+        "X": 193,
+        "Y": 0,
+        "Width": 1348,
+        "Height": 575,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai07.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai07.cs",
+              "RelativeDocumentMoniker": "LAB2\\Bai07.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab2\\LAB2\\LAB2\\Bai07.cs",
+              "RelativeToolTip": "LAB2\\Bai07.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:10:53.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
